@@ -1,7 +1,4 @@
 from icecream import ic
-# import gdown
-
-# url = "https://drive.google.com/uc?id=1IBScGdW2xlNsc9v5zSAya548kNgiOrko"
 file_path = "Module_1\\Week_2\\Homework\\data.txt"
 # gdown.download(url, file_path)
 
