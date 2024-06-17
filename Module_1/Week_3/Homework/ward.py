@@ -78,12 +78,6 @@ class Ward():
 
 
 if __name__ == '__main__':
-    # print("\nAfter sorting age of Ward1 people")
-    # ward1.sort_age()
-    # ward1.describe()
-
-    # print(f"\nAverage yob (teachers): {ward1.compute_average()}")
-
     student1 = Student(name="studentZ2023", yob=2011, grade="6")
     assert student1.get_yob() == 2011
     student1.describe()  # Student - Name: studentZ2023 - YoB: 2011 - Grade: 6
