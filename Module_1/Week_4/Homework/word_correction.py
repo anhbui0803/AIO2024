@@ -55,7 +55,7 @@ def main():
         col1.write(":blue[**Vocabs:**]")
         col1.write(vocabs)
 
-        col2.write(":blue[**Distances:**]")
+        col2.write(":green[**Distances:**]")
         col2.write(sorted_distances)
 
 
